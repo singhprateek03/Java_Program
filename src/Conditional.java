@@ -5,14 +5,13 @@ public class Conditional {
         System.out.print("Enter your age: ");
         int age = input.nextInt();
         if (age<=0){
-            System.out.println("Invalid age.");
+            System.out.println("Invalid age!");
         }
         else if (age >= 18){
-            System.out.print("You are eligible to drive.😊😊");
+            System.out.print("You are eligible to drive.");
         }
         else {
             System.out.print("You are not eligible to drive.");
         }
-
     }
 }
