@@ -36,7 +36,7 @@ public class StringMetod {
         // 9) name.endsWith() method
 //        System.out.println(name.endsWith("k"));
 
-        // 10) name.charAt() method  // yeah index pe konsa character wo batata hai
+        // 10) name.charAt() method  // yeah 1-1 charcter ko nayi line print karta hai OR index pe konsa character wo batata hai
 //        System.out.println(name.charAt(3));
 
         // 11) name.indexOf() method    // yeah batata hai ki given character ka sabse phele alphabet charater kis index pe hai
